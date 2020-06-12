@@ -106,7 +106,6 @@ namespace MyoS
                 Console.WriteLine("======MyoS=Version==========");
                 Console.WriteLine("MyoS Kernal: 0.1.20a");
                 Console.WriteLine("Writen by: Benjamin F. -- BiberGames-2020");
-                Console.WriteLine("This OS was specially coded for the Samsung NC10.");
 
 
                 goto start;
