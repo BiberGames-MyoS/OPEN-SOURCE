@@ -22,5 +22,5 @@ Befehle:
 - Bibergames
 
 Du möchtes dein eigenen Build machen? Hier ist, was Du brauchst:
-- Cosmos Userkit: https://www.gocosmos.org/
+- Cosmos Userkit: https://github.com/CosmosOS/Cosmos/releases
 - VS-Studio : https://visualstudio.microsoft.com/de/vs/community/
