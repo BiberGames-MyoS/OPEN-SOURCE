@@ -1,0 +1,8 @@
+C:\Users\Benjamin\source\repos\MyoS\MyoS\bin\Release\netcoreapp2.0\cosmos\MyoS.deps.json
+C:\Users\Benjamin\source\repos\MyoS\MyoS\bin\Release\netcoreapp2.0\cosmos\MyoS.dll
+C:\Users\Benjamin\source\repos\MyoS\MyoS\bin\Release\netcoreapp2.0\cosmos\MyoS.pdb
+C:\Users\Benjamin\source\repos\MyoS\MyoS\obj\Release\netcoreapp2.0\cosmos\MyoS.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\MyoS\MyoS\obj\Release\netcoreapp2.0\cosmos\MyoS.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\repos\MyoS\MyoS\obj\Release\netcoreapp2.0\cosmos\MyoS.AssemblyInfo.cs
+C:\Users\Benjamin\source\repos\MyoS\MyoS\obj\Release\netcoreapp2.0\cosmos\MyoS.dll
+C:\Users\Benjamin\source\repos\MyoS\MyoS\obj\Release\netcoreapp2.0\cosmos\MyoS.pdb
