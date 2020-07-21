@@ -31,7 +31,7 @@ Wass noch kommen soll:
 - spiele
 - texteditor
 - script-sprache endung .shs
-- ton ausgabe
+- ton ausgabe --fertig mit demo
 - true multiuser
 - repair disk
 - vm suport
